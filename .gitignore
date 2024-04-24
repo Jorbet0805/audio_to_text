@@ -1,0 +1,34 @@
+# Temporary audio chunks created during video processing
+chunk_*.wav
+
+# Inputs files
+*.wav
+*.mp3
+*.mp4
+
+# Output text file (can be customized based on usage)
+output.txt
+
+# IDE/Editor specific files
+# Choose only the ones relevant to your development environment
+*.idea/
+.vscode/
+.pycharm/
+
+# Common build/test artifacts
+__pycache__/
+
+# Logging files (if applicable)
+*.log
+
+# Unit test coverage files
+.coverage
+
+# Virtual environment directory
+.venv/
+env/
+
+# System specific temporary files
+# Adjust based on your OS
+*.swp
+*.pyc
